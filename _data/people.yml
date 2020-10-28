@@ -1,0 +1,197 @@
+# faculty
+clayton:
+    display_name: "Clayton Miller"
+    github: cmiller8
+    role: faculty
+    image: /img/people/dr_clayton_miller.png
+    bio: Professor
+
+# staff/postdocs
+mario:
+    display_name: "Mario Frei"
+    webpage: https://github.com/mariofrei
+    github: mariofrei
+    role: postdoc
+    image: /img/people/mario.jpg
+    bio: PostDoc
+
+martin:
+    display_name: "Martin Mosteiro"
+    webpage: "https://systems.arch.ethz.ch/about-us/team/team-zurich/martin-mosteiro-romero.html"
+    github: martin-mosteiro
+    role: postdoc
+    image: /img/people/martin.jpg
+    bio: PostDoc
+
+miguel:
+    display_name: "Miguel Martin"
+    webpage:
+    github:
+    role: postdoc
+    image: /img/people/miguel.jpg
+    bio: PostDoc
+
+# grad students
+matias:
+    display_name: "Matias Quintana"
+    webpage: "https://www.matiasquintana.com"
+    github: matqr
+    image: /img/people/matias.png
+    role: grad
+
+mahmoud:
+    display_name: "Mahmoud AbdelRahman"
+    webpage: "https://github.com/MahmoudAbdelRahman"
+    github: MahmoudAbdelRahman
+    image: /img/people/mahmoudouf.jpg
+    role: grad
+
+chun:
+    display_name: "Chun Fu"
+    webpage: "https://github.com/PatrickFu0302"
+    github: PatrickFu0302
+    image: /img/people/fuchun.png
+    role: grad
+
+irvin:
+    display_name: "Irvin Tang"
+    webpage: "https://github.com/irrhuh"
+    github: irrhuh
+    image: /img/people/irvin1.png
+    role: grad
+
+julien:
+    display_name: "Julien Leprince"
+    webpage: "https://research.tue.nl/en/persons/julien-leprince"
+    github:
+    image: /img/people/julien.jpg
+    role: grad
+
+benedetto:
+    display_name: "Benedetto Grillone"
+    webpage: "https://www.beegroup-cimne.com/tag/benedetto-grillone/"
+    github: Begri
+    image: /img/people/benedetto.jpeg
+    role: grad
+
+till:
+    display_name: "Till Stoeckmann"
+    webpage: 
+    github: 
+    image:
+    role: grad
+
+# alumns
+jonathan:
+    display_name: "Jonathan Roth"
+    webpage: "https://github.com/jmr385"
+    github: jmr385
+    role: alum
+    image: /img/people/jonathan.png
+    bio: "Exchange Ph.D., 2020. Ph.D., at Stanford"
+
+ananya:
+    display_name: "Ananya Joshi"
+    webpage: "https://github.com/ananion-cation"
+    github: ananion-cation
+    role: alum
+    image: /img/people/ananya.png
+    bio: "Exchange Ph.D., 2019. Ph.D., at Carnegie Mellon University"
+
+pj:
+    display_name: "Dr. Prageeth Jayathissa"
+    webpage: "https://github.com/pjayathissa"
+    github: pjayathissa
+    role: alum
+    image: /img/people/pjjayasthissa.jpeg
+    bio: "PostDoc, 2019. Now at New Zealand."
+
+tapeesh:
+    display_name: "Tapeesh Sood"
+    webpage: "https://github.com/tapeesh"
+    github: tapeesh
+    role: alum
+    image: /img/people/tapeesh.png
+    bio: "Research Associate, 2017-2019. Now at WeWork"
+
+jayashree:
+    display_name: "Dr. Jayashree Chadalawada"
+    webpage: "https://github.com/Jayashreerao"
+    github: Jayashreerao
+    role: alum
+    bio: "PostDoc, 2017-2019. Now at NUS Dept. of Civil Engineering"
+
+kyu:
+    display_name: "Dongkyu Lee"
+    webpage: "https://github.com/Kyu2"
+    github: Kyu2
+    role: alum
+    bio: "Research Associate, 2016-2017. Now at Hanyang University"
+
+# collaborators
+federico:
+    display_name: "Dr. Federico Tartarini"
+    webpage: "https://federicotartarini.github.io/"
+    github: FedericoTartarini
+    role: collab
+    image: /img/people/federico.png
+    bio: "PostDoc, BEARS"
+
+samy:
+    display_name: "Dr. Pandarasamy Arjunan"
+    webpage: "https://github.com/HiSamy"
+    github: HiSamy
+    role: collab
+    bio: "PostDoc, BEARS"
+
+renee:
+    display_name: "Renee Christensen"
+    webpage: "https://www.linkedin.com/in/renee-christensen-66843688/"
+    role: collab
+    image: /img/people/renee.jpeg
+    bio: "Research Fellow, SDE at NUS"
+
+jovan:
+    display_name: "Dr. Jovan Pantelic"
+    webpage:
+    role: collab
+    bio: "Assistant professional researcher, UC Berkeley"
+
+# undergrads
+yiting:
+    display_name: "Yi Ting Teo"
+    webpage: "https://www.linkedin.com/in/teo-yi-ting-61593496/"
+    image: /img/people/yiting.png
+    role: ugrad
+
+charlene:
+    display_name: "Charlene Tan"
+    webpage: "https://www.linkedin.com/in/charlene-tan-a9497b143/"
+    role: ugrad
+
+yunxuan:
+    display_name: "Yun Xuan Chua"
+    webpage: "https://www.linkedin.com/in/chuayunxuan/"
+    role: ugrad
+
+pearlyn:
+    display_name: "Pearlyn"
+    role: ugrad
+
+jinkai:
+    display_name: "Jin Kai Leong"
+    role: ugrad
+
+jamais:
+    display_name: "Jamais"
+    role: ugrad
+
+jiajing:
+    display_name: "Jia Jing"
+    role: ugrad
+
+vanessa:
+    display_name: "Vanessa Neo"
+    webpage: "https://www.linkedin.com/in/vanessa-neo/"
+    image: /img/people/vanessa.png
+    role: ugrad-alum
